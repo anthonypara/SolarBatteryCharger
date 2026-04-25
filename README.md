@@ -1,1 +1,1 @@
-# SolarBatterycharger
+# SolarBatteryCharger
